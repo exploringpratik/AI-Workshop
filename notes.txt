@@ -1,0 +1,31 @@
+// Artificial Intelligence workshop prime college -- 12th December, 2019
+
+AI => algortihm that mimics human behavior
+
+----------------------------------------------
+
+shift+tab gives info of the method in anaconda.
+
+np.array() (press shift + tab to gain info)
+
+tuple cannot be altered. It is necessary to create tuple beforehand of operation.
+
+pop can be used in list but not in array.
+
+
+----------------------------------------------
+
+git commit steps:
+
+first new repo
+go to the project folder
+git init
+git add . 
+git commit -m "Message description"
+git remote add https://linkOfRepo
+git push -u origin master
+
+
+cv2 version = 4.1.1 	//pip install opencv-python //check version with command: cv2.__version__
+keras version = 2.2.4   //pip install keras==2.2.4	//check version with command: keras.__version__
+tensorflow version = 2.0.0  //pip install tensorflow==2.0.0	//check version with command: tensorflow.__version__
